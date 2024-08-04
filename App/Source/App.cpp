@@ -1,7 +1,7 @@
-#include "/Users/cdunne/git_repos/Gaia/Core/Source/Core.h"
+#include "/Users/cdunne/git_repos/Gaia/Gaia/Source/Gaia.h"
 #include <iostream>
 
 int main() {
-    Core::PrintHelloWorld();
+    Gaia::PrintHelloWorld();
     return 0;
 }

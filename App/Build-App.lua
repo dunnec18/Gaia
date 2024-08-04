@@ -11,13 +11,13 @@ project "App"
    {
       "Source",
 
-	  -- Include Core
-	  "../Core/Source"
+	  -- Include Gaia
+	  "../Gaia/Source"
    }
 
    links
    {
-      "Core"
+      "Gaia"
    }
 
    targetdir ("../Binaries/" .. OutputDir .. "/%{prj.name}")

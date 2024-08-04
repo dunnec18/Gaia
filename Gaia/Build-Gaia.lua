@@ -1,4 +1,4 @@
-project "Core"
+project "Gaia"
    kind "StaticLib"
    language "C++"
    cppdialect "C++20"

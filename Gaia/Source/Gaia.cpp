@@ -1,6 +1,6 @@
-#include "Core.h"
+#include "Gaia.h"
 
-namespace Core {
+namespace Gaia {
 
     void PrintHelloWorld() {
         std::cout << "Hello World!\n";

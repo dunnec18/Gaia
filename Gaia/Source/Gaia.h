@@ -2,6 +2,6 @@
 
 #include <iostream>
 
-namespace Core {
+namespace Gaia {
     void PrintHelloWorld();
 }
