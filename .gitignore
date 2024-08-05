@@ -10,6 +10,7 @@ Binaries/
 *.log
 *.code-workspace
 *.DS_Store
+*.vscode
 Makefile
 
 # Exclude
